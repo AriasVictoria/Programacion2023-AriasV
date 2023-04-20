@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsolaKiosco", "ConsolaKiosco\ConsolaKiosco.csproj", "{EBB078F1-8421-445E-8923-AB803E281C0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiblotecaKiosco", "BiblotecaKiosco\BiblotecaKiosco.csproj", "{96902451-DBF3-4BE6-BA31-F6FCA58BCCAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBB078F1-8421-445E-8923-AB803E281C0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBB078F1-8421-445E-8923-AB803E281C0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBB078F1-8421-445E-8923-AB803E281C0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBB078F1-8421-445E-8923-AB803E281C0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96902451-DBF3-4BE6-BA31-F6FCA58BCCAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96902451-DBF3-4BE6-BA31-F6FCA58BCCAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96902451-DBF3-4BE6-BA31-F6FCA58BCCAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96902451-DBF3-4BE6-BA31-F6FCA58BCCAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AC547BA-E475-47D2-AD40-E46F0DD28EDA}
+	EndGlobalSection
+EndGlobal
