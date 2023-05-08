@@ -59,7 +59,7 @@ do
 */
 
 
-//EJERCICIO 1 WHILE: El usuario ingresará valores positivos, cuando no tenga más valores ingresará 0 (cero) El sistema deberá informar la suma de los ingresados.
+//EJERCICIO 1  y 2 WHILE: El usuario ingresará valores positivos, cuando no tenga más valores ingresará 0 (cero) El sistema deberá informar la suma de los ingresados.
 // Siguiendo el ejercicio anterior, calcular el promedio de los valores ingresados
 /*
 
@@ -87,68 +87,71 @@ while (valores > 0)
 }
 */
 
-//EJERCICIO 3 WHILE: El usuario ingresará una lista de nombre de persona, cuando se ingresé un nombre vacío, sin datos; el sistema informará cuántos nombres se han ingresado.
-//VER
+//EJERCICIO 3 WHILE: El usuario ingresará una lista de nombre de persona, cuando se ingresé un nombre vacío, sin datos;
+//el sistema informará cuántos nombres se han ingresado.
 /*
-Console.WriteLine("Ingrese su nombre: ");
-string? nombre = Console.ReadLine();
-int nombreInt = 0;
-int suma1 = 0;
+Console.WriteLine("Ingrese un nombre: ");
+string nombre = Console.ReadLine();
 
-List<int> nombre1 = new List<int>();
+int contador = 0;
 
-while (nombre != null)
+while (nombre != "")
 {
-    nombre = Convert.ToString((Console.ReadLine()));
-    if (nombreInt != null)
-    {
-        nombre1.Add(nombreInt);
-    }
-    else
-    {
-        suma1 = nombre1.Sum();  
-    }
+    contador = contador + 1;
+    Console.WriteLine("Ingrese un nombre: ");
+    nombre = Console.ReadLine();
 }
-Console.WriteLine("Ingresaste: "+ suma1 , "nombres");
+Console.WriteLine("La cantidad de nombres fueron: " + contador)
 */
 
 //EJERCICIO 4 WHILE: Para calcular el total de una factura , el usuario ingresará pares de datos Costo y Total ;
 //cuando se ingrese costo 0 finaliza el ingreso de datos; informar el total adeudado
-//VER
 /*
-Console.WriteLine("Ingrese el costo del producto y 0 para finalizar");
-Console.WriteLine("Ingrese el costo del producto: ");
-double total_adecuado = 0;
-double costo = 1;
+Console.WriteLine("ingreseme el costo: ");
+string costo = Console.ReadLine();
+int costoNum = int.Parse(costo);
+int sumita = 0;
 
-while (costo > 0);
+while (costoNum > 0)
 {
-    Console.WriteLine("Ingrese el costo del producto: ");
-    costo = double.Parse(Console.ReadLine());
-    if (costo != 0) ;
-    {
-        Console.WriteLine("Ingrese el total de productos: ");
-        double total = double.Parse(Console.ReadLine());
 
-        total_adecuado += total;
-    }
+    Console.WriteLine("Ahora poneme el total: ");
+    string total = Console.ReadLine();
+    int totalNum = int.Parse(total);
+
+    // En estancia yo ya tengo ingresado al menos 1 par de costo y total
+    // así ´que acá sería un buen momento de hacer mi proceso
+    sumita = sumita + (costoNum * totalNum);
+
+    Console.WriteLine("ingreseme el costo: ");
+    costo = Console.ReadLine();
+    costoNum = int.Parse(costo);
 }
-Console.WriteLine("El monto total es: ", total_adecuado);
+
+Console.WriteLine("el total es: " + sumita);
 */
 
 //EJERCICIO 5 WHILE O FOR: Para calcular el consumo total de un cliente, el usuario primero ingresará cuántos productos compró;
-//luego el sistema solicitará que ingrese el total y costo de cada uno de esos productos consumidos;al terminar informará el total adeudado por el cliente. 
-//VER
+//luego el sistema solicitará que ingrese el total y costo de cada uno de esos productos consumidos;
+//al terminar informará el total adeudado por el cliente. 
 /*
-Console.WriteLine("Ingrese la cantidad de productos: ");
-int total_pagar = 0;
+Console.WriteLine("Ingresame cuantos productos compro: ");
+string cant = Console.ReadLine();
 
-for (int cant_productos = 1; cant_productos <= 3; cant_productos++) ;
+int cantNum = int.Parse(cant);
+int suma = 0; 
+
+for (int i = 0; i <= cantNum; i++) 
 {
-    string monto = Console.ReadLine();
-    total_pagar = total_pagar + int.Parse(monto);
+    Console.WriteLine("poneme el total :");
+    string total = Console.ReadLine();
+
+    Console.WriteLine("poneme el costo :");
+    string costo = Console.ReadLine();
+
+    suma = suma + (int.Parse(costo)) + int.Parse(total);
 }
-Console.WriteLine("El total adecuado es: ", total_pagar);
+Console.WriteLine("El total por el cliente es :", suma);
 */
 
 //EJERICICIO 1 FOR: El usuario necesita ingresar 5 valores enteros, el sistema deberá informar la suma de los 5
@@ -222,3 +225,22 @@ Console.WriteLine("El número mayor es: " + mayor);
 */
 
 //EJERCICIO 5 FOR: El usuario ingresa 5 pares de valores con el nombre del cliente y el total gastado, indicar el cliente que gastó más. 
+int mayor = 0;
+string nombre_quemasgasto = "";
+
+for (int i = 1; i <= 5; i++)
+{
+    Console.WriteLine("Ingresame el nombre del cliente: ");
+    string nombre = Console.ReadLine();
+
+    Console.WriteLine("Ingresame cuanto gasto el cliente: ");
+    int gasto = int.Parse(Console.ReadLine());
+
+    if (gasto > mayor)
+    {
+        mayor = gasto;
+        nombre_quemasgasto = nombre;
+    }
+}
+Console.WriteLine("El que mas gasto fue: " + nombre_quemasgasto);
+Console.WriteLine("Y el total que gasto fue: " + mayor);
