@@ -1,0 +1,6 @@
+C:\Users\Vicky\source\repos\winfor clase 1-06\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Vicky\source\repos\winfor clase 1-06\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Vicky\source\repos\winfor clase 1-06\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\Vicky\source\repos\winfor clase 1-06\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Vicky\source\repos\winfor clase 1-06\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Vicky\source\repos\winfor clase 1-06\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

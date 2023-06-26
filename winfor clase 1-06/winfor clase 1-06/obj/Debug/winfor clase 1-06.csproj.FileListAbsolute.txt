@@ -1,0 +1,17 @@
+C:\Users\Vicky\source\repos\winfor clase 1-06\winfor clase 1-06\obj\Debug\winfor clase 1-06.csproj.AssemblyReference.cache
+C:\Users\Vicky\source\repos\winfor clase 1-06\winfor clase 1-06\obj\Debug\winfor clase 1-06.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vicky\source\repos\winfor clase 1-06\winfor clase 1-06\obj\Debug\winfor_clase_1_06.Form1.resources
+C:\Users\Vicky\source\repos\winfor clase 1-06\winfor clase 1-06\obj\Debug\winfor_clase_1_06.Properties.Resources.resources
+C:\Users\Vicky\source\repos\winfor clase 1-06\winfor clase 1-06\obj\Debug\winfor clase 1-06.csproj.GenerateResource.cache
+C:\Users\Vicky\source\repos\winfor clase 1-06\winfor clase 1-06\obj\Debug\winfor clase 1-06.csproj.CoreCompileInputs.cache
+C:\Users\Vicky\source\repos\winfor clase 1-06\winfor clase 1-06\bin\Debug\winfor clase 1-06.exe.config
+C:\Users\Vicky\source\repos\winfor clase 1-06\winfor clase 1-06\bin\Debug\winfor clase 1-06.exe
+C:\Users\Vicky\source\repos\winfor clase 1-06\winfor clase 1-06\bin\Debug\winfor clase 1-06.pdb
+C:\Users\Vicky\source\repos\winfor clase 1-06\winfor clase 1-06\bin\Debug\ClassLibrary1.dll
+C:\Users\Vicky\source\repos\winfor clase 1-06\winfor clase 1-06\bin\Debug\ClassLibrary1.pdb
+C:\Users\Vicky\source\repos\winfor clase 1-06\winfor clase 1-06\obj\Debug\winfor_clase_1_06.Form2.resources
+C:\Users\Vicky\source\repos\winfor clase 1-06\winfor clase 1-06\obj\Debug\winfor clase 1-06.csproj.CopyComplete
+C:\Users\Vicky\source\repos\winfor clase 1-06\winfor clase 1-06\obj\Debug\winfor clase 1-06.exe
+C:\Users\Vicky\source\repos\winfor clase 1-06\winfor clase 1-06\obj\Debug\winfor clase 1-06.pdb
+C:\Users\Vicky\source\repos\winfor clase 1-06\winfor clase 1-06\obj\Debug\winfor_clase_1_06.Form3.resources
+C:\Users\Vicky\source\repos\winfor clase 1-06\winfor clase 1-06\obj\Debug\winfor_clase_1_06.Form4.resources
