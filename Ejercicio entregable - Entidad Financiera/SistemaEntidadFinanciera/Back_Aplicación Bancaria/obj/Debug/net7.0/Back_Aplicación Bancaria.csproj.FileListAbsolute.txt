@@ -1,0 +1,28 @@
+C:\Users\Vicky\source\repos\SistemaEntidadFinanciera\Back_Aplicación Bancaria\bin\Debug\net7.0\Back_Aplicación Bancaria.deps.json
+C:\Users\Vicky\source\repos\SistemaEntidadFinanciera\Back_Aplicación Bancaria\bin\Debug\net7.0\Back_Aplicación Bancaria.dll
+C:\Users\Vicky\source\repos\SistemaEntidadFinanciera\Back_Aplicación Bancaria\bin\Debug\net7.0\Back_Aplicación Bancaria.pdb
+C:\Users\Vicky\source\repos\SistemaEntidadFinanciera\Back_Aplicación Bancaria\obj\Debug\net7.0\Back_Aplicación Bancaria.csproj.AssemblyReference.cache
+C:\Users\Vicky\source\repos\SistemaEntidadFinanciera\Back_Aplicación Bancaria\obj\Debug\net7.0\Back_Aplicación Bancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vicky\source\repos\SistemaEntidadFinanciera\Back_Aplicación Bancaria\obj\Debug\net7.0\Back_Aplicación Bancaria.AssemblyInfoInputs.cache
+C:\Users\Vicky\source\repos\SistemaEntidadFinanciera\Back_Aplicación Bancaria\obj\Debug\net7.0\Back_Aplicación Bancaria.AssemblyInfo.cs
+C:\Users\Vicky\source\repos\SistemaEntidadFinanciera\Back_Aplicación Bancaria\obj\Debug\net7.0\Back_Aplicación Bancaria.csproj.CoreCompileInputs.cache
+C:\Users\Vicky\source\repos\SistemaEntidadFinanciera\Back_Aplicación Bancaria\obj\Debug\net7.0\Back_Aplicación Bancaria.dll
+C:\Users\Vicky\source\repos\SistemaEntidadFinanciera\Back_Aplicación Bancaria\obj\Debug\net7.0\refint\Back_Aplicación Bancaria.dll
+C:\Users\Vicky\source\repos\SistemaEntidadFinanciera\Back_Aplicación Bancaria\obj\Debug\net7.0\Back_Aplicación Bancaria.pdb
+C:\Users\Vicky\source\repos\SistemaEntidadFinanciera\Back_Aplicación Bancaria\obj\Debug\net7.0\ref\Back_Aplicación Bancaria.dll
+C:\Users\Vicky\source\repos\SistemaEntidadFinanciera\Back_Aplicación Bancaria\bin\Debug\net7.0\Back_Aplicación Bancaria.runtimeconfig.json
+C:\Users\Vicky\source\repos\SistemaEntidadFinanciera\Back_Aplicación Bancaria\obj\Debug\net7.0\Back_Aplicación Bancaria.genruntimeconfig.cache
+C:\Users\Vicky\source\repos\Ejercicio entregable - Entidad Financiera\SistemaEntidadFinanciera\Back_Aplicación Bancaria\bin\Debug\net7.0\Back_Aplicación Bancaria.deps.json
+C:\Users\Vicky\source\repos\Ejercicio entregable - Entidad Financiera\SistemaEntidadFinanciera\Back_Aplicación Bancaria\bin\Debug\net7.0\Back_Aplicación Bancaria.runtimeconfig.json
+C:\Users\Vicky\source\repos\Ejercicio entregable - Entidad Financiera\SistemaEntidadFinanciera\Back_Aplicación Bancaria\bin\Debug\net7.0\Back_Aplicación Bancaria.dll
+C:\Users\Vicky\source\repos\Ejercicio entregable - Entidad Financiera\SistemaEntidadFinanciera\Back_Aplicación Bancaria\bin\Debug\net7.0\Back_Aplicación Bancaria.pdb
+C:\Users\Vicky\source\repos\Ejercicio entregable - Entidad Financiera\SistemaEntidadFinanciera\Back_Aplicación Bancaria\obj\Debug\net7.0\Back_Aplicación Bancaria.csproj.AssemblyReference.cache
+C:\Users\Vicky\source\repos\Ejercicio entregable - Entidad Financiera\SistemaEntidadFinanciera\Back_Aplicación Bancaria\obj\Debug\net7.0\Back_Aplicación Bancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vicky\source\repos\Ejercicio entregable - Entidad Financiera\SistemaEntidadFinanciera\Back_Aplicación Bancaria\obj\Debug\net7.0\Back_Aplicación Bancaria.AssemblyInfoInputs.cache
+C:\Users\Vicky\source\repos\Ejercicio entregable - Entidad Financiera\SistemaEntidadFinanciera\Back_Aplicación Bancaria\obj\Debug\net7.0\Back_Aplicación Bancaria.AssemblyInfo.cs
+C:\Users\Vicky\source\repos\Ejercicio entregable - Entidad Financiera\SistemaEntidadFinanciera\Back_Aplicación Bancaria\obj\Debug\net7.0\Back_Aplicación Bancaria.csproj.CoreCompileInputs.cache
+C:\Users\Vicky\source\repos\Ejercicio entregable - Entidad Financiera\SistemaEntidadFinanciera\Back_Aplicación Bancaria\obj\Debug\net7.0\Back_Aplicación Bancaria.dll
+C:\Users\Vicky\source\repos\Ejercicio entregable - Entidad Financiera\SistemaEntidadFinanciera\Back_Aplicación Bancaria\obj\Debug\net7.0\refint\Back_Aplicación Bancaria.dll
+C:\Users\Vicky\source\repos\Ejercicio entregable - Entidad Financiera\SistemaEntidadFinanciera\Back_Aplicación Bancaria\obj\Debug\net7.0\Back_Aplicación Bancaria.pdb
+C:\Users\Vicky\source\repos\Ejercicio entregable - Entidad Financiera\SistemaEntidadFinanciera\Back_Aplicación Bancaria\obj\Debug\net7.0\Back_Aplicación Bancaria.genruntimeconfig.cache
+C:\Users\Vicky\source\repos\Ejercicio entregable - Entidad Financiera\SistemaEntidadFinanciera\Back_Aplicación Bancaria\obj\Debug\net7.0\ref\Back_Aplicación Bancaria.dll
