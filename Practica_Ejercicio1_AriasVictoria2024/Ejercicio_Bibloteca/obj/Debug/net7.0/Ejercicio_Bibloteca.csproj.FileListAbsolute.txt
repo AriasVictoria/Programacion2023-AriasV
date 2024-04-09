@@ -1,0 +1,12 @@
+C:\Users\Vicky\source\repos\Practica_Ejercicio1_AriasVictoria2024\Ejercicio_Bibloteca\obj\Debug\net7.0\Ejercicio_Bibloteca.csproj.AssemblyReference.cache
+C:\Users\Vicky\source\repos\Practica_Ejercicio1_AriasVictoria2024\Ejercicio_Bibloteca\obj\Debug\net7.0\Ejercicio_Bibloteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vicky\source\repos\Practica_Ejercicio1_AriasVictoria2024\Ejercicio_Bibloteca\obj\Debug\net7.0\Ejercicio_Bibloteca.AssemblyInfoInputs.cache
+C:\Users\Vicky\source\repos\Practica_Ejercicio1_AriasVictoria2024\Ejercicio_Bibloteca\obj\Debug\net7.0\Ejercicio_Bibloteca.AssemblyInfo.cs
+C:\Users\Vicky\source\repos\Practica_Ejercicio1_AriasVictoria2024\Ejercicio_Bibloteca\obj\Debug\net7.0\Ejercicio_Bibloteca.csproj.CoreCompileInputs.cache
+C:\Users\Vicky\source\repos\Practica_Ejercicio1_AriasVictoria2024\Ejercicio_Bibloteca\bin\Debug\net7.0\Ejercicio_Bibloteca.deps.json
+C:\Users\Vicky\source\repos\Practica_Ejercicio1_AriasVictoria2024\Ejercicio_Bibloteca\bin\Debug\net7.0\Ejercicio_Bibloteca.dll
+C:\Users\Vicky\source\repos\Practica_Ejercicio1_AriasVictoria2024\Ejercicio_Bibloteca\bin\Debug\net7.0\Ejercicio_Bibloteca.pdb
+C:\Users\Vicky\source\repos\Practica_Ejercicio1_AriasVictoria2024\Ejercicio_Bibloteca\obj\Debug\net7.0\Ejercicio_Bibloteca.dll
+C:\Users\Vicky\source\repos\Practica_Ejercicio1_AriasVictoria2024\Ejercicio_Bibloteca\obj\Debug\net7.0\refint\Ejercicio_Bibloteca.dll
+C:\Users\Vicky\source\repos\Practica_Ejercicio1_AriasVictoria2024\Ejercicio_Bibloteca\obj\Debug\net7.0\Ejercicio_Bibloteca.pdb
+C:\Users\Vicky\source\repos\Practica_Ejercicio1_AriasVictoria2024\Ejercicio_Bibloteca\obj\Debug\net7.0\ref\Ejercicio_Bibloteca.dll
